@@ -14,5 +14,5 @@ cout << "\nThe numbers are: ";
 for (int i = 0; i < 5; ++i) {  
 cout << numbers[i] << "  ";  
 }  
-return 0;  
+
 }  
