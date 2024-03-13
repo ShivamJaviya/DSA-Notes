@@ -60,8 +60,11 @@ int main()
 
     cout<<firstposition(a,10,7)<<endl;
     cout<<lastposition(a,10,7)<<endl;
+<<<<<<< HEAD
 
 
 
+=======
+>>>>>>> b2f314a (last Done)
     return 0;
 }
